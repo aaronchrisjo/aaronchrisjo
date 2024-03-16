@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React-native, Tensorflow and some backend frameworks**
 
-- 🤝 I’m looking for help with **Machine Learning and React-native**
+- 🤝 I’m looking for help with **Machine Learning and NextJS**
 
 - 👨‍💻 All of my projects are available at [https://aaronchrisjo.vercel.app](https://aaronchrisjo.vercel.app)
 
-- 💬 Ask me about **react, html and basically webdev related stuff.**
+- 💬 Ask me about **javascrpit, html and basically webdev related stuff.**
 
 - 📫 How to reach me **aaroncj089@gmail.com**
 
