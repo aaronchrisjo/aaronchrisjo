@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a skin disease detection app.**
 
-- 🌱 I’m currently learning **React-native, Tensorflow and some backend frameworks**
+- 🌱 I’m currently learning **NextJS, Tensorflow and some backend frameworks**
 
 - 🤝 I’m looking for help with **Machine Learning and NextJS**
 
