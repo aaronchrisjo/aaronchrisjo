@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/aaron__cj" target="blank"><img src="https://img.shields.io/twitter/follow/aaron__cj?logo=twitter&style=for-the-badge" alt="aaron__cj" /></a> </p>
 
-- 🔭 I’m currently working on **a skin disease detection app.**
+- 🔭 I’m currently working on **Angular 18**
 
-- 🌱 I’m currently learning **NextJS, Tensorflow and some backend frameworks**
+- 🌱 I’m currently learning **MEAN stack.**
 
-- 🤝 I’m looking for help with **Machine Learning and NextJS**
+- 🤝 I’m looking for help with learning **Backend frameworks**
 
-- 👨‍💻 All of my projects are available at [https://aaronchrisjo.vercel.app](https://aaronchrisjo.vercel.app)
+- 👨‍💻 All of my projects are available at [https://aaronchrisjoanil.vercel.app](https://aaronchrisjoanil.vercel.app)
 
 - 💬 Ask me about **javascrpit, html and basically webdev related stuff.**
 
