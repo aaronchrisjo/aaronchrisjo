@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio-io](https://portfolioio.vercel.app/home)
 
-- 🌱 I’m currently learning **Angular v18, Node.js**
+- 🌱 I’m currently learning **Angular v18, Node.js, AWS**
 
 - 🤝 I’m looking for help with **Backend Technologies**
 
