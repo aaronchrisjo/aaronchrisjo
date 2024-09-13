@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left">
-  🔭 I’m currently working on <a href="https://portfolioio.vercel.app/home" target="_blank">Portfolio-io</a><br>
+  🔭 I’m currently working on <a href="https://cj-blogs.vercel.app/home" target="_blank">CJ Blogs</a><br>
   🌱 I’m currently learning <strong>Angular v18, Node.js, AWS</strong><br>
   🤝 I’m looking for help with <strong>Backend Technologies</strong><br>
   👨‍💻 All of my projects are available at <a href="https://aaronchrisjoanil.vercel.app/" target="_blank">aaronchrisjoanil.vercel.app</a><br>
