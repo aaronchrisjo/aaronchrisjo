@@ -49,11 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronchrisjo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaronchrisjo&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
 <h3 align="left">✍️ Random Dev Quote:</h3>
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
