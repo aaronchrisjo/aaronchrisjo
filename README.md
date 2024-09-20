@@ -44,8 +44,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronchrisjo&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronchrisjo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
